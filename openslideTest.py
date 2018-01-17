@@ -3,11 +3,8 @@ from PIL import Image
 import os
 import errno
 import numpy as np
-import time
 import sys
-
 from multiprocessing import Pool
-from itertools import product
 
 def convert_RGBA2RGB(rgba_img):
     """Converts a RGBA Pillow image to a RGB image.
@@ -96,7 +93,6 @@ def processExtractedImage(img, slidePath, tilePos, level):
         return False
 
 
-
 def processTileCallback(result):
     """ Callback for processTile function. Currently nothing is done here!"""
     print("callback method called: {}".format(result))
@@ -150,6 +146,7 @@ def iterateOverWsi(slidePath, tileSize = None, level = 0):
             pool.apply_async(func=processTile,
                              args=(resultMap, slidePath, tileX, tileY, tileSize, level),
                              callback=processTileCallback)
+            # todo giving the resultmap as parameter does not work properly!
     pool.close()
     pool.join()
 
@@ -192,7 +189,7 @@ def calcChromaFromImage(image):
     arr = np.array(image)
     width, height, px = arr.shape
 
-    if px != 3: # currently not supporting argb
+    if px != 3: # currently not supporting rgba
         raise IOError('Image in wrong format!')
 
     for y in range(height):
@@ -249,6 +246,7 @@ def get_image_region(slide, location, size=(512, 512), level=0):
     region = slide.read_region(location, level, size)
     return convert_RGBA2RGB(region)
 
+
 def get_foreground_positions_from_sharpnessmap(sharpness_map_path):
     positions = []
     img = Image.open(sharpness_map_path)
@@ -277,8 +275,6 @@ if __name__ == '__main__':
         wsiDim = slide.dimensions[0] # gets width
         wsiDim = slide.level_dimensions[0] # get dimensions from baselayer
 
-
-
     # # get foreground positions from the sharpnessmap
     # foregroundPos = get_foreground_positions_from_sharpnessmap(sharpnessMapPath)
     #
@@ -301,17 +297,7 @@ if __name__ == '__main__':
     # get thumbnail image with maximum size
     # get_thumbnail_with_max_size(slide, (2000, 20000)).save('thumbnail_max.jpg')
 
-    # 1194x407 (wxh)
-    # for lvl in range(slide.level_count):
-    #     img = get_image_region(slide, (0, 0), lvl, (512, 512))
-    #     img.save('level_{}.jpg'.format(lvl))
-
     # extract and save meta images (associated_images)
     # for name, image in slide.associated_images.items():
     #     print('saving {} image'.format(name))
     #     convert_RGBA2RGB(image).save('{}.jpg'.format(name))
-
-    # releasing slide object
-    # slide.close()
-    # slide.read_region(location=(0,0), level=0, size=(512, 512))
-
