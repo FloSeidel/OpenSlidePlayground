@@ -267,21 +267,11 @@ def get_foreground_positions_from_sharpnessmap(sharpness_map_path):
 if __name__ == '__main__':
     
     # initialize slide
-    # slidePath = '/home/bassist/WSIs/1M01.mrxs'
-    sharpnessMapPath = '/home/bassist/WSIs/E2017069762P1-a-8_GBG-53BP1_0000000000003C55/meta/sharpness/E2017069762P1-a-8_GBG-53BP1_0000000000003C55.debug.Png'
-    ndpiSlidePath = '/home/bassist/WSIs/E2017069762P1-a-8_GBG-53BP1_0000000000003BE7/E2017069762P1-a-8_GBG-53BP1_0000000000003BE7.ndpi'
-
-    # openslide is not capable of reading vsf!
-    # vsfSlidePath = '/home/bassist/WSIs/E2017069762P1-a-8_GBG-53BP1_0000000000003C55/E2017069762P1-a-8_GBG-53BP1_0000000000003C55.vsf'
-
-    dirPath = '/home/bassist/Desktop/tmpOutput6'
-
-
-
+    slidePath = '/home/bassist/WSIs/1M01.mrxs'
     # slidePath = '/home/bassist/WSIs/533-13_HG.ndpi'
 
     # slide = openslide.open_slide(ndpiSlidePath)
-    with openslide.open_slide(ndpiSlidePath) as slide:
+    with openslide.open_slide(slidePath) as slide:
 
         # ATTENTION
         wsiDim = slide.dimensions[0] # gets width
@@ -318,7 +308,7 @@ if __name__ == '__main__':
 
     # extract and save meta images (associated_images)
     # for name, image in slide.associated_images.items():
-    #     eprint('saving {} image'.format(name))
+    #     print('saving {} image'.format(name))
     #     convert_RGBA2RGB(image).save('{}.jpg'.format(name))
 
     # releasing slide object
