@@ -101,7 +101,7 @@ def processTileCallback(result):
     return
 
 
-def iterateOverWsi(slidePath, tileSize = None, level = 0):
+def iterateOverWsi(slideath, tileSize=None, level=0):
     """Iterates parallel over the given WSI. If no tileSize is given a (512x512)
     Tile is assumed. If nothing else is specified the baselayer is assumed as
     level
