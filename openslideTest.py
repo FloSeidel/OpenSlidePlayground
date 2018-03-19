@@ -1,10 +1,16 @@
 import openslide
+from OpenSSL.SSL import _NpnAdvertiseHelper
 from PIL import Image
 import os
 import errno
 import numpy as np
 import sys
 from multiprocessing import Pool
+import sharpnessImpl
+import time
+import traceback
+
+resultMap = None
 
 def convert_RGBA2RGB(rgba_img):
     """Converts a RGBA Pillow image to a RGB image.
@@ -25,7 +31,7 @@ def convert_RGBA2RGB(rgba_img):
     return rgb_img
 
 
-def processTile(resultMap, slidePath, tileX, tileY, tileSize = None, level = 0):
+def processTile(slidePath, tileX, tileY, tileSize = None, level = 0): # resultMap,
     if tileSize is None:
         tileSize = (512, 512)
 
@@ -50,7 +56,8 @@ def processTile(resultMap, slidePath, tileX, tileY, tileSize = None, level = 0):
                                                level)
             # print('result for tile: ({}, {}): {}'.format(tileX, tileY,
             #                                              tileResult))
-            resultMap[tileX, tileX] = tileResult
+            # resultMap[tileX, tileX] = tileResult
+            return tileResult
             # sharpnessValues[tileX][tileY] = evaluateSharpness(img)
 
 
@@ -70,38 +77,55 @@ def processExtractedImage(img, slidePath, tilePos, level):
     :rtype boolean
     """
     try:
+
+        # thread_id = os.getppid()
+        # print('THID{}: Processing Tile: {}#########'
+        #       .format(thread_id, tilePos))
+        imValues = image_2_grayscale_nparray(img)
         # continue if image just contains white pixels
-        if imgJustWhite(img):
-            raise AssertionError('Image contains just white')
+        if imgJustWhite(imValues):
+            # print('THID{}: Just White'.format(thread_id)) #  (Time:{})
+            return (tilePos[0], tilePos[1], (255,255,255))
+
         # calculate chroma of the extracted image
-        chroma = calcChromaFromImage(img)
+        starttime = time.time()
+        chroma = calcChromaFromArray(np.array(img))
         # continue if image probably just background
         if chroma < 20:
-            raise AssertionError('Chroma value is under 20')
+            # print('THID{}: chroma to small ({}) (time: {})'
+            #       .format(thread_id, chroma, time.time() - starttime))
+            return (tilePos[0], tilePos[1], (255,255,255))
 
-        filename = os.path.splitext(os.path.basename(slidePath))[0]
-        filename += '_x=' + str(tilePos[0])
-        filename += '_y=' + str(tilePos[1])
-        filename += '_lvl=' + str(level)
-        filename += '_chr=' + str(round(chroma, 2)).replace('.', '-')
-        filename += '.png'
-        saveImg(img, filename)
-        return True
+        starttime = time.time()
+        # print(type(img))
+        sv, sharp = sharpnessImpl.variance_of_laplacian_Wrapper(imValues,
+                                                                threshold=100.0)
+        # print('THID{}: Sharpness calculated ({}) (time: {})'
+        #       .format(thread_id, sv, time.time() - starttime))
+
+        if sharp:
+            return (tilePos[0], tilePos[1], (0,255,0))
+        else:
+            return (tilePos[0], tilePos[1], (255, 0, 0))
+
+        # filename = '/home/bassist/Desktop/tmpOutput2/'
+        # filename += os.path.splitext(os.path.basename(slidePath))[0]
+        # filename += '_x=' + str(tilePos[0])
+        # filename += '_y=' + str(tilePos[1])
+        # filename += '_lvl=' + str(level)
+        # filename += '_chr=' + str(round(chroma, 2)).replace('.', '-')
+        # filename += '.png'
+        #
+        # saveImg(img, filename)
+        # return True
     except:
         exc = sys.exc_info()
-        print('{}: {}'.format(exc[0], exc[1]))
-        return False
+        print('{}: {}\n{}'.format(exc[0], exc[1], traceback.format_exc()))
+        raise
+        # return False
 
 
-def processTileCallback(result):
-    """ Callback for processTile function. Currently nothing is done here!"""
-    print("callback method called: {}".format(result))
-
-    # do nothing
-    return
-
-
-def iterateOverWsi(slideath, tileSize=None, level=0):
+def iterateOverWsi(slidePath, tileSize=None, level=0):
     """Iterates parallel over the given WSI. If no tileSize is given a (512x512)
     Tile is assumed. If nothing else is specified the baselayer is assumed as
     level
@@ -135,21 +159,34 @@ def iterateOverWsi(slideath, tileSize=None, level=0):
         resultH = slideHeight // tileSize[1]
 
     # init result heatMap
-    resultMap = [[0 for x in range(resultW)] for y in range(resultH)]
+    resultMap = np.zeros(shape=(resultW, resultH, 3))
+    # resultMap = [[0 for x in range(resultW)] for y in range(resultH)]
+
+    def processTileCallback(item):
+        """ Callback for processTile function. Currently nothing is done here!"""
+        # print("callback method called: {}".format(item))
+        resultMap[item[0], item[1]] = item[2]
 
     print('Starting threadpool')
     # start thread pool (multithreading.Pool())
     pool = Pool()
+    # results = []
     for tileX in range(resultW):
         for tileY in range(resultH):
             # start processTile function foreach tile in wsi
-            pool.apply_async(func=processTile,
-                             args=(resultMap, slidePath, tileX, tileY, tileSize, level),
-                             callback=processTileCallback)
+
+            res = pool.apply_async(func=processTile,
+                                   args=(slidePath, #resultMap,
+                                         tileX, tileY,
+                                         tileSize, level),
+                                   callback=processTileCallback)#.get()
             # todo giving the resultmap as parameter does not work properly!
+            # results.append(res)
     pool.close()
     pool.join()
-
+    # print(results)
+    # print('#'*30)
+    # print(resultMap)
     return resultMap
 
 def saveImg(image, name = None):
@@ -171,40 +208,74 @@ def saveImg(image, name = None):
     image.save(name)
 
 
-def imgJustWhite(image):
+def imgJustWhite(npArray): # image
     allWhite = False
 
-    extrema = image.convert("L").getextrema()
+    # extrema = image.convert("L").getextrema()
     # if extrema == (0, 0):
     #     # all black
-    if extrema == (255, 255):
-        # all white
+    # if extrema == (255, 255):
+    #     # all white
+    #     allWhite = True
+    min = npArray.min()
+    max = npArray.max()
+
+    if min == max and max == 255:
         allWhite = True
 
     return allWhite
 
-def calcChromaFromImage(image):
-    chromaCum = 0
-    pxCount = 0
-    arr = np.array(image)
-    width, height, px = arr.shape
 
-    if px != 3: # currently not supporting rgba
+# def calcChromaFromArray(arr):
+#     width, height, px = arr.shape  # , px
+#     if px != 3: # currently not supporting rgba
+#         raise IOError('Image in wrong format!')
+#
+#     chromaCum = 0
+#     pxCount = 0
+#     for y in range(height):
+#         for x in range(width):
+#             pixel = arr[x,y]
+#             chromaCum += calcChromaFromPixel(pixel[0], pixel[1], pixel[2])
+#             pxCount += 1
+#
+#     return chromaCum / pxCount
+
+
+def calcChromaFromImage(image):
+    arr = np.array(image)
+    return calcChromaFromArray(arr)
+
+def calcChromaFromArray(arr):
+    width, height, px = arr.shape
+    if px != 3:  # currently not supporting rgba
         raise IOError('Image in wrong format!')
 
-    for y in range(height):
-        for x in range(width):
-            pixel = arr[x,y]
-            chromaCum += calcChromaFromPixel(pixel[0], pixel[1], pixel[2])
-            pxCount += 1
+    # convert to int in case uint array is given
+    if arr.dtype != np.int64:
+        arr = arr.astype(np.int64)
 
-    return chromaCum / pxCount
+    # https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.linalg.norm.html
+    # default norm is Frobenius norm, which is exactly what I want
+    # sqrt(sum(pow(val1), pow(val2), pow(val3), ..., pow(val_x)))
+    res = np.linalg.norm(np.stack(
+        (arr[:,:,0] - arr[:,:,1],               # r - g
+         arr[:,:,0] - arr[:,:,2],               # r - b
+         arr[:,:,1] - arr[:,:,2])), axis=0)     # g - b
 
-def calcChromaFromPixel(red, green, blue):
-    r = int(red)
-    g = int(green)
-    b = int(blue)
-    return abs(int(r) - g) + abs(r - b) + abs(g - b)
+    return res.sum() / (width * height)
+
+
+
+def image_2_grayscale_nparray(img):
+    return np.array(img.convert("L"))
+
+
+# def calcChromaFromPixel(red, green, blue):
+#     r = int(red)
+#     g = int(green)
+#     b = int(blue)
+#     return abs(r - g) + abs(r - b) + abs(g - b)
 
 def evaluateSharpness(image):
     raise NotImplementedError("lazy programer ;)")

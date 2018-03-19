@@ -1,0 +1,1809 @@
+Run SharpnessLibrary...
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=20_lvl=0_chr=92-47.png
+Sharpnessvalue: 853.130137860775
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=25_lvl=0_chr=121-18.png
+Sharpnessvalue: 602.897802463136
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=72_lvl=0_chr=130-42.png
+Sharpnessvalue: 463.5702657699585
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=115_lvl=0_chr=66-09.png
+Sharpnessvalue: 848.3632238303398
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=116_lvl=0_chr=131-47.png
+Sharpnessvalue: 1161.853033859501
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=160_lvl=0_chr=47-76.png
+Sharpnessvalue: 607.7492126738653
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=116_lvl=0_chr=118-23.png
+Sharpnessvalue: 770.6891910847626
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=120_lvl=0_chr=25-92.png
+Sharpnessvalue: 337.44746644013503
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=69_lvl=0_chr=161-87.png
+Sharpnessvalue: 1118.622978208572
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=69_lvl=0_chr=181-77.png
+Sharpnessvalue: 1119.6430106868502
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=163_lvl=0_chr=60-26.png
+Sharpnessvalue: 496.52784248813987
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=68_lvl=0_chr=161-88.png
+Sharpnessvalue: 1341.4335110375978
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=46_y=25_lvl=0_chr=57-48.png
+Sharpnessvalue: 469.2871627283748
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=23_lvl=0_chr=98-69.png
+Sharpnessvalue: 513.4059152396949
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=118_lvl=0_chr=68-86.png
+Sharpnessvalue: 300.52822521816415
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=64_lvl=0_chr=153-65.png
+Sharpnessvalue: 636.4650597014552
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=153_lvl=0_chr=66-58.png
+Sharpnessvalue: 268.3265663215425
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=161_lvl=0_chr=140-07.png
+Sharpnessvalue: 570.670937349496
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=66_lvl=0_chr=28-66.png
+Sharpnessvalue: 188.3219865042338
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=26_lvl=0_chr=168-56.png
+Sharpnessvalue: 1420.0530864386237
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=111_lvl=0_chr=22-0.png
+Sharpnessvalue: 153.91958474028797
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=157_lvl=0_chr=127-29.png
+Sharpnessvalue: 912.0970714869327
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=153_lvl=0_chr=121-36.png
+Sharpnessvalue: 361.42153499129927
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=114_lvl=0_chr=41-49.png
+Sharpnessvalue: 373.66827368736267
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=117_lvl=0_chr=135-87.png
+Sharpnessvalue: 722.229901327737
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=163_lvl=0_chr=27-9.png
+Sharpnessvalue: 378.82372646823933
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=74_lvl=0_chr=86-53.png
+Sharpnessvalue: 1065.356348431611
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=64_lvl=0_chr=118-19.png
+Sharpnessvalue: 529.8913190583116
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=113_lvl=0_chr=41-6.png
+Sharpnessvalue: 404.1290773017681
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=69_lvl=0_chr=78-18.png
+Sharpnessvalue: 970.4700474379933
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=24_lvl=0_chr=169-49.png
+Sharpnessvalue: 799.2349994032993
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=116_lvl=0_chr=145-83.png
+Sharpnessvalue: 903.7799351771828
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=114_lvl=0_chr=31-83.png
+Sharpnessvalue: 431.4407991258777
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=115_lvl=0_chr=78-33.png
+Sharpnessvalue: 763.5417041353503
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=75_lvl=0_chr=157-32.png
+Sharpnessvalue: 1226.1654002785071
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=24_lvl=0_chr=146-25.png
+Sharpnessvalue: 676.9829346982151
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=23_y=134_lvl=0_chr=20-86.png
+Sharpnessvalue: 54.59595587964577
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=71_lvl=0_chr=152-16.png
+Sharpnessvalue: 890.9262236034847
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=73_lvl=0_chr=39-28.png
+Sharpnessvalue: 497.2636947483843
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=22_lvl=0_chr=47-52.png
+Sharpnessvalue: 351.18289366271347
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=19_y=162_lvl=0_chr=23-86.png
+Sharpnessvalue: 125.54885105689755
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=25_lvl=0_chr=34-62.png
+Sharpnessvalue: 307.41850480901485
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=25_lvl=0_chr=161-46.png
+Sharpnessvalue: 825.036237567765
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=160_lvl=0_chr=131-78.png
+Sharpnessvalue: 713.9431091594597
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=158_lvl=0_chr=100-87.png
+Sharpnessvalue: 653.451864467701
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=163_lvl=0_chr=114-31.png
+Sharpnessvalue: 655.215634322667
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=159_lvl=0_chr=151-73.png
+Sharpnessvalue: 686.6867942798272
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=67_lvl=0_chr=162-8.png
+Sharpnessvalue: 1130.3519652755786
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=26_lvl=0_chr=141-46.png
+Sharpnessvalue: 1020.39369606947
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=28_y=155_lvl=0_chr=115-43.png
+Sharpnessvalue: 473.4397299048578
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=151_lvl=0_chr=23-96.png
+Sharpnessvalue: 103.0967804138636
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=27_lvl=0_chr=109-64.png
+Sharpnessvalue: 520.4335144609213
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=109_lvl=0_chr=118-48.png
+Sharpnessvalue: 358.32135314302286
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=119_lvl=0_chr=128-44.png
+Sharpnessvalue: 1030.037238549383
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=110_lvl=0_chr=71-2.png
+Sharpnessvalue: 296.54498367825
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=109_lvl=0_chr=121-82.png
+Sharpnessvalue: 550.098373608067
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=154_lvl=0_chr=144-59.png
+Sharpnessvalue: 383.1974159995443
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=70_lvl=0_chr=134-04.png
+Sharpnessvalue: 840.4822118092416
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=68_lvl=0_chr=134-9.png
+Sharpnessvalue: 976.4978929451754
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=18_lvl=0_chr=139-78.png
+Sharpnessvalue: 423.50482266045583
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=114_lvl=0_chr=61-94.png
+Sharpnessvalue: 809.1780157980975
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=65_lvl=0_chr=73-68.png
+Sharpnessvalue: 359.50761023157975
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=22_lvl=0_chr=161-51.png
+Sharpnessvalue: 1653.8174910673406
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=70_lvl=0_chr=26-84.png
+Sharpnessvalue: 263.8369196388958
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=70_lvl=0_chr=178-03.png
+Sharpnessvalue: 914.5584144119493
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=111_lvl=0_chr=82-62.png
+Sharpnessvalue: 601.5148079561623
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=46_y=24_lvl=0_chr=98-59.png
+Sharpnessvalue: 816.872487764791
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=120_lvl=0_chr=134-81.png
+Sharpnessvalue: 1037.4102336382493
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=117_lvl=0_chr=56-48.png
+Sharpnessvalue: 410.75772812590003
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=22_y=136_lvl=0_chr=20-42.png
+Sharpnessvalue: 52.728377281688154
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=68_lvl=0_chr=122-94.png
+Sharpnessvalue: 499.45038839975314
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=24_lvl=0_chr=129-71.png
+Sharpnessvalue: 683.0149458585656
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=21_lvl=0_chr=62-51.png
+Sharpnessvalue: 646.0254532270483
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=30_lvl=0_chr=31-08.png
+Sharpnessvalue: 165.74397937807953
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=68_lvl=0_chr=181-01.png
+Sharpnessvalue: 1189.3381440305238
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=159_lvl=0_chr=118-41.png
+Sharpnessvalue: 421.55412285751663
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=73_lvl=0_chr=125-33.png
+Sharpnessvalue: 844.3420707879122
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=71_lvl=0_chr=170-21.png
+Sharpnessvalue: 883.9497336984932
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=120_lvl=0_chr=132-6.png
+Sharpnessvalue: 1168.0819900399074
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=120_lvl=0_chr=122-27.png
+Sharpnessvalue: 1388.444053547224
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=47_y=24_lvl=0_chr=25-87.png
+Sharpnessvalue: 232.7421511614084
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=106_lvl=0_chr=37-45.png
+Sharpnessvalue: 170.70966613710334
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=65_lvl=0_chr=85-8.png
+Sharpnessvalue: 547.5456962929893
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=160_lvl=0_chr=21-89.png
+Sharpnessvalue: 175.01924562627391
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=117_lvl=0_chr=141-05.png
+Sharpnessvalue: 1431.4115715082153
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=110_lvl=0_chr=80-8.png
+Sharpnessvalue: 366.79947617277503
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=68_lvl=0_chr=65-13.png
+Sharpnessvalue: 575.9927609009756
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=23_y=135_lvl=0_chr=20-02.png
+Sharpnessvalue: 52.316040029225405
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=65_lvl=0_chr=76-26.png
+Sharpnessvalue: 560.0113451614598
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=162_lvl=0_chr=95-18.png
+Sharpnessvalue: 512.2496552707016
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=26_lvl=0_chr=70-93.png
+Sharpnessvalue: 152.64394596822967
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=23_lvl=0_chr=109-02.png
+Sharpnessvalue: 1433.419394396813
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=111_lvl=0_chr=78-58.png
+Sharpnessvalue: 1158.6771953372372
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=62_lvl=0_chr=86-02.png
+Sharpnessvalue: 125.43534744990757
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=161_lvl=0_chr=160-77.png
+Sharpnessvalue: 1034.6062199024018
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=67_lvl=0_chr=31-96.png
+Sharpnessvalue: 140.28461076918757
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=75_lvl=0_chr=47-39.png
+Sharpnessvalue: 430.5462341287639
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=17_lvl=0_chr=37-87.png
+Sharpnessvalue: 95.84617774165235
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=71_lvl=0_chr=163-54.png
+Sharpnessvalue: 425.50957278202986
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=111_lvl=0_chr=80-71.png
+Sharpnessvalue: 546.0671626724652
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=20_lvl=0_chr=21-05.png
+Sharpnessvalue: 201.03134151920676
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=19_lvl=0_chr=47-51.png
+Sharpnessvalue: 158.27793094422668
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=69_lvl=0_chr=142-65.png
+Sharpnessvalue: 663.9649981063412
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=115_lvl=0_chr=71-27.png
+Sharpnessvalue: 731.3697295860475
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=27_lvl=0_chr=39-99.png
+Sharpnessvalue: 206.38422727595025
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=62_lvl=0_chr=95-12.png
+Sharpnessvalue: 147.3399988165911
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=161_lvl=0_chr=129-82.png
+Sharpnessvalue: 992.9776816316735
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=121_lvl=0_chr=114-27.png
+Sharpnessvalue: 1756.5758680560975
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=67_lvl=0_chr=146-12.png
+Sharpnessvalue: 773.3870782256126
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=114_lvl=0_chr=127-58.png
+Sharpnessvalue: 1388.6761277806363
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=153_lvl=0_chr=124-29.png
+Sharpnessvalue: 378.12437646194303
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=21_lvl=0_chr=141-19.png
+Sharpnessvalue: 895.8436587558681
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=152_lvl=0_chr=105-39.png
+Sharpnessvalue: 417.0600051879883
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=117_lvl=0_chr=121-12.png
+Sharpnessvalue: 595.6558346765669
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=23_lvl=0_chr=157-99.png
+Sharpnessvalue: 481.4159002209635
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=107_lvl=0_chr=91-47.png
+Sharpnessvalue: 570.7882970196661
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=160_lvl=0_chr=78-81.png
+Sharpnessvalue: 288.67058412352344
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=115_lvl=0_chr=43-28.png
+Sharpnessvalue: 601.8507916540257
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=68_lvl=0_chr=32-03.png
+Sharpnessvalue: 353.4431681957649
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=116_lvl=0_chr=137-65.png
+Sharpnessvalue: 795.9481102860154
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=166_lvl=0_chr=88-24.png
+Sharpnessvalue: 856.0913720894023
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=23_y=136_lvl=0_chr=21-66.png
+Sharpnessvalue: 55.78340067877434
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=27_lvl=0_chr=135-71.png
+Sharpnessvalue: 617.5609013525391
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=29_y=155_lvl=0_chr=62-32.png
+Sharpnessvalue: 370.53755276811717
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=64_lvl=0_chr=102-33.png
+Sharpnessvalue: 358.99784222152084
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=68_lvl=0_chr=29-47.png
+Sharpnessvalue: 178.65337200369686
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=27_lvl=0_chr=93-13.png
+Sharpnessvalue: 370.69715057509893
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=158_lvl=0_chr=136-6.png
+Sharpnessvalue: 1474.6214860064065
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=117_lvl=0_chr=117-2.png
+Sharpnessvalue: 789.8778220516979
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=118_lvl=0_chr=42-8.png
+Sharpnessvalue: 394.3125689995941
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=23_y=130_lvl=0_chr=20-67.png
+Sharpnessvalue: 58.2662593008572
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=161_lvl=0_chr=83-49.png
+Sharpnessvalue: 440.24372863559984
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=119_lvl=0_chr=123-38.png
+Sharpnessvalue: 1573.2727863033651
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=69_lvl=0_chr=157-54.png
+Sharpnessvalue: 401.9972816928639
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=165_lvl=0_chr=44-49.png
+Sharpnessvalue: 510.53901812195545
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=120_lvl=0_chr=112-47.png
+Sharpnessvalue: 1007.6235510661354
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=155_lvl=0_chr=73-96.png
+Sharpnessvalue: 405.18567401460314
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=72_lvl=0_chr=100-54.png
+Sharpnessvalue: 646.4091456185415
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=163_lvl=0_chr=106-54.png
+Sharpnessvalue: 808.8817939756991
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=21_lvl=0_chr=59-31.png
+Sharpnessvalue: 503.8493124739616
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=19_lvl=0_chr=84-27.png
+Sharpnessvalue: 277.2368811558554
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=75_lvl=0_chr=126-35.png
+Sharpnessvalue: 1100.1669158255681
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=71_lvl=0_chr=165-8.png
+Sharpnessvalue: 1245.5872843479592
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=18_lvl=0_chr=58-93.png
+Sharpnessvalue: 335.6751897517679
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=29_y=154_lvl=0_chr=100-19.png
+Sharpnessvalue: 401.9809484487487
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=109_lvl=0_chr=116-48.png
+Sharpnessvalue: 423.25703238364076
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=17_lvl=0_chr=31-77.png
+Sharpnessvalue: 55.89132491213968
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=20_lvl=0_chr=97-35.png
+Sharpnessvalue: 532.0747679587803
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=25_lvl=0_chr=167-42.png
+Sharpnessvalue: 450.8139800466015
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=26_lvl=0_chr=159-81.png
+Sharpnessvalue: 587.1637335732667
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=26_lvl=0_chr=63-4.png
+Sharpnessvalue: 243.61804140858294
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=75_lvl=0_chr=136-42.png
+Sharpnessvalue: 1100.7157474724663
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=157_lvl=0_chr=135-89.png
+Sharpnessvalue: 1234.0062743004964
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=71_lvl=0_chr=69-37.png
+Sharpnessvalue: 847.3257731811609
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=157_lvl=0_chr=134-27.png
+Sharpnessvalue: 556.1675675341248
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=46_y=70_lvl=0_chr=72-43.png
+Sharpnessvalue: 968.2068831583019
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=159_lvl=0_chr=122-13.png
+Sharpnessvalue: 811.4462948290166
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=70_lvl=0_chr=174-32.png
+Sharpnessvalue: 1102.0251783104468
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=29_y=158_lvl=0_chr=87-12.png
+Sharpnessvalue: 360.24638738621434
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=28_lvl=0_chr=155-84.png
+Sharpnessvalue: 438.8531938879605
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=114_lvl=0_chr=128-64.png
+Sharpnessvalue: 555.3479371750145
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=75_lvl=0_chr=41-39.png
+Sharpnessvalue: 439.86212129365595
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=25_lvl=0_chr=154-44.png
+Sharpnessvalue: 711.5814123153687
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=165_lvl=0_chr=133-73.png
+Sharpnessvalue: 1478.124071813174
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=118_lvl=0_chr=143-15.png
+Sharpnessvalue: 779.7964256144478
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=112_lvl=0_chr=44-52.png
+Sharpnessvalue: 471.91556875011884
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=28_y=154_lvl=0_chr=62-68.png
+Sharpnessvalue: 284.58161757349444
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=161_lvl=0_chr=129-96.png
+Sharpnessvalue: 1062.1588734448305
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=30_lvl=0_chr=111-11.png
+Sharpnessvalue: 1403.3495877159294
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=108_lvl=0_chr=105-06.png
+Sharpnessvalue: 378.85344852761773
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=22_lvl=0_chr=107-57.png
+Sharpnessvalue: 642.8045662711229
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=117_lvl=0_chr=145-89.png
+Sharpnessvalue: 1049.8909614644945
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=29_y=159_lvl=0_chr=81-7.png
+Sharpnessvalue: 603.6016293181892
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=70_lvl=0_chr=169-6.png
+Sharpnessvalue: 991.017382045844
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=119_lvl=0_chr=73-17.png
+Sharpnessvalue: 560.2934305665403
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=22_lvl=0_chr=25-51.png
+Sharpnessvalue: 170.4617768113967
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=117_lvl=0_chr=64-85.png
+Sharpnessvalue: 354.6288373749121
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=112_lvl=0_chr=47-37.png
+Sharpnessvalue: 359.11352917585464
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=154_lvl=0_chr=42-53.png
+Sharpnessvalue: 167.6169586032629
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=161_lvl=0_chr=155-85.png
+Sharpnessvalue: 1075.725246857619
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=18_lvl=0_chr=147-41.png
+Sharpnessvalue: 227.57553397536685
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=66_lvl=0_chr=125-32.png
+Sharpnessvalue: 953.2249031553365
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=27_lvl=0_chr=141-29.png
+Sharpnessvalue: 474.87936151679605
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=61_lvl=0_chr=78-05.png
+Sharpnessvalue: 129.54289424615854
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=20_lvl=0_chr=99-95.png
+Sharpnessvalue: 597.0741076758131
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=152_lvl=0_chr=44-68.png
+Sharpnessvalue: 76.97240741817222
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=76_lvl=0_chr=74-44.png
+Sharpnessvalue: 595.3768257537013
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=70_lvl=0_chr=23-49.png
+Sharpnessvalue: 287.1191532131634
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=106_lvl=0_chr=39-06.png
+Sharpnessvalue: 108.11234646987577
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=20_lvl=0_chr=40-64.png
+Sharpnessvalue: 162.92978435382247
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=64_lvl=0_chr=131-9.png
+Sharpnessvalue: 432.44802462961525
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=155_lvl=0_chr=101-61.png
+Sharpnessvalue: 397.7213919570204
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=121_lvl=0_chr=77-18.png
+Sharpnessvalue: 1353.287456072343
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=68_lvl=0_chr=135-76.png
+Sharpnessvalue: 786.9890107475221
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=71_lvl=0_chr=178-47.png
+Sharpnessvalue: 1061.1799082130747
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=119_lvl=0_chr=124-81.png
+Sharpnessvalue: 1493.9800893838838
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=28_lvl=0_chr=147-02.png
+Sharpnessvalue: 519.5202031404333
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=75_lvl=0_chr=168-99.png
+Sharpnessvalue: 1141.336292242384
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=23_lvl=0_chr=99-88.png
+Sharpnessvalue: 707.4974199966382
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=121_lvl=0_chr=23-96.png
+Sharpnessvalue: 456.1039851883979
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=113_lvl=0_chr=76-12.png
+Sharpnessvalue: 296.4820711305365
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=28_y=27_lvl=0_chr=42-05.png
+Sharpnessvalue: 80.66858272993704
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=115_lvl=0_chr=100-11.png
+Sharpnessvalue: 683.1425551962457
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=161_lvl=0_chr=144-77.png
+Sharpnessvalue: 925.305406983709
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=26_lvl=0_chr=163-54.png
+Sharpnessvalue: 1315.0926055418677
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=67_lvl=0_chr=32-56.png
+Sharpnessvalue: 183.23751620925032
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=118_lvl=0_chr=104-82.png
+Sharpnessvalue: 755.9009854602482
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=164_lvl=0_chr=101-78.png
+Sharpnessvalue: 1277.930223560892
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=120_lvl=0_chr=144-31.png
+Sharpnessvalue: 1063.5080703906133
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=117_lvl=0_chr=147-46.png
+Sharpnessvalue: 619.4330453303992
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=156_lvl=0_chr=61-64.png
+Sharpnessvalue: 476.0385196510324
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=69_lvl=0_chr=69-68.png
+Sharpnessvalue: 475.7278169602505
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=158_lvl=0_chr=54-55.png
+Sharpnessvalue: 485.9118836722191
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=74_lvl=0_chr=74-88.png
+Sharpnessvalue: 598.6699379151105
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=22_lvl=0_chr=45-71.png
+Sharpnessvalue: 192.92766554257832
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=156_lvl=0_chr=116-07.png
+Sharpnessvalue: 785.052068705656
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=28_lvl=0_chr=128-19.png
+Sharpnessvalue: 1137.2417021071888
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=28_lvl=0_chr=159-7.png
+Sharpnessvalue: 657.9945539794862
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=24_lvl=0_chr=84-31.png
+Sharpnessvalue: 482.65421039155626
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=22_lvl=0_chr=37-46.png
+Sharpnessvalue: 179.5216549802426
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=67_lvl=0_chr=154-01.png
+Sharpnessvalue: 735.7355051659397
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=26_lvl=0_chr=128-97.png
+Sharpnessvalue: 270.5118958087987
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=161_lvl=0_chr=82-87.png
+Sharpnessvalue: 825.7992082922574
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=70_lvl=0_chr=94-24.png
+Sharpnessvalue: 494.4472692012787
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=65_lvl=0_chr=109-85.png
+Sharpnessvalue: 682.5240498664207
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=115_lvl=0_chr=74-48.png
+Sharpnessvalue: 881.5294813205837
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=152_lvl=0_chr=57-87.png
+Sharpnessvalue: 268.4104198208079
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=166_lvl=0_chr=89-33.png
+Sharpnessvalue: 1068.3304301241733
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=23_lvl=0_chr=51-79.png
+Sharpnessvalue: 360.25357650220394
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=160_lvl=0_chr=125-44.png
+Sharpnessvalue: 756.8834075694904
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=119_lvl=0_chr=134-01.png
+Sharpnessvalue: 933.6964797293767
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=66_lvl=0_chr=111-75.png
+Sharpnessvalue: 469.85227908048546
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=164_lvl=0_chr=117-69.png
+Sharpnessvalue: 1402.4374002814293
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=108_lvl=0_chr=93-29.png
+Sharpnessvalue: 274.95540620385145
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=21_lvl=0_chr=162-46.png
+Sharpnessvalue: 1435.0906849260064
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=46_y=72_lvl=0_chr=25-35.png
+Sharpnessvalue: 207.23775476939045
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=29_lvl=0_chr=113-43.png
+Sharpnessvalue: 654.3186611328128
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=116_lvl=0_chr=34-32.png
+Sharpnessvalue: 440.28234494192293
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=24_lvl=0_chr=133-72.png
+Sharpnessvalue: 470.46796604535484
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=67_lvl=0_chr=140-33.png
+Sharpnessvalue: 482.99249076884007
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=63_lvl=0_chr=120-43.png
+Sharpnessvalue: 313.9715215228498
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=71_lvl=0_chr=84-29.png
+Sharpnessvalue: 590.0112168452324
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=62_lvl=0_chr=33-23.png
+Sharpnessvalue: 125.90772044280311
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=163_lvl=0_chr=153-1.png
+Sharpnessvalue: 840.6223789068026
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=112_lvl=0_chr=141-3.png
+Sharpnessvalue: 1172.1077695723943
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=161_lvl=0_chr=143-99.png
+Sharpnessvalue: 1542.0783829828724
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=22_lvl=0_chr=90-01.png
+Sharpnessvalue: 319.9395370412967
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=20_lvl=0_chr=73-38.png
+Sharpnessvalue: 412.3332413898315
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=116_lvl=0_chr=104-36.png
+Sharpnessvalue: 1231.201672261217
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=17_lvl=0_chr=39-64.png
+Sharpnessvalue: 92.54046821215888
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=160_lvl=0_chr=52-43.png
+Sharpnessvalue: 658.2901265224064
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=24_lvl=0_chr=81-46.png
+Sharpnessvalue: 376.5473182699061
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=157_lvl=0_chr=109-84.png
+Sharpnessvalue: 737.365813469849
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=115_lvl=0_chr=138-42.png
+Sharpnessvalue: 948.3626287941443
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=19_lvl=0_chr=88-21.png
+Sharpnessvalue: 465.8587760383816
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=113_lvl=0_chr=54-17.png
+Sharpnessvalue: 470.17537025915226
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=162_lvl=0_chr=85-78.png
+Sharpnessvalue: 646.2626815425319
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=46_y=23_lvl=0_chr=53-38.png
+Sharpnessvalue: 638.9367339671444
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=68_lvl=0_chr=30-21.png
+Sharpnessvalue: 449.07089483026357
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=66_lvl=0_chr=95-36.png
+Sharpnessvalue: 603.1805815928965
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=69_lvl=0_chr=158-87.png
+Sharpnessvalue: 1122.1367018257733
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=121_lvl=0_chr=133-63.png
+Sharpnessvalue: 1226.329308259752
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=72_lvl=0_chr=83-35.png
+Sharpnessvalue: 473.3590518584824
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=162_lvl=0_chr=136-01.png
+Sharpnessvalue: 1431.2057598493993
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=66_lvl=0_chr=41-29.png
+Sharpnessvalue: 114.2763369595632
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=19_lvl=0_chr=98-13.png
+Sharpnessvalue: 523.5764505299157
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=70_lvl=0_chr=101-27.png
+Sharpnessvalue: 1169.1948268844135
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=155_lvl=0_chr=80-22.png
+Sharpnessvalue: 435.05407183429634
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=23_y=133_lvl=0_chr=21-58.png
+Sharpnessvalue: 50.28520560635661
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=113_lvl=0_chr=143-65.png
+Sharpnessvalue: 746.8611955904489
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=154_lvl=0_chr=137-39.png
+Sharpnessvalue: 513.0242562909698
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=116_lvl=0_chr=129-93.png
+Sharpnessvalue: 872.5468285696115
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=162_lvl=0_chr=150-5.png
+Sharpnessvalue: 1282.99352855928
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=23_lvl=0_chr=77-01.png
+Sharpnessvalue: 944.632939818257
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=74_lvl=0_chr=150-32.png
+Sharpnessvalue: 1062.1133625074144
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=164_lvl=0_chr=137-39.png
+Sharpnessvalue: 820.8802033506654
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=163_lvl=0_chr=48-7.png
+Sharpnessvalue: 101.64410480599327
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=24_lvl=0_chr=105-47.png
+Sharpnessvalue: 1058.0140484430449
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=22_lvl=0_chr=91-46.png
+Sharpnessvalue: 575.1656935475767
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=162_lvl=0_chr=118-05.png
+Sharpnessvalue: 812.631310720215
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=69_lvl=0_chr=21-51.png
+Sharpnessvalue: 88.41830770275556
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=114_lvl=0_chr=138-36.png
+Sharpnessvalue: 1588.0567001836462
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=25_lvl=0_chr=128-05.png
+Sharpnessvalue: 703.4803824742412
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=73_lvl=0_chr=130-32.png
+Sharpnessvalue: 689.7086132003315
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=118_lvl=0_chr=79-27.png
+Sharpnessvalue: 413.6906347359618
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=159_lvl=0_chr=83-55.png
+Sharpnessvalue: 949.1734161374625
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=156_lvl=0_chr=91-97.png
+Sharpnessvalue: 804.3935213526711
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=108_lvl=0_chr=73-62.png
+Sharpnessvalue: 252.6676202173694
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=24_lvl=0_chr=149-57.png
+Sharpnessvalue: 884.443626502296
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=64_lvl=0_chr=158-89.png
+Sharpnessvalue: 507.915629360592
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=19_lvl=0_chr=117-72.png
+Sharpnessvalue: 634.7817740758037
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=114_lvl=0_chr=76-83.png
+Sharpnessvalue: 640.9689665062906
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=114_lvl=0_chr=95-49.png
+Sharpnessvalue: 1052.1517787005141
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=158_lvl=0_chr=45-49.png
+Sharpnessvalue: 302.5710100531578
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=117_lvl=0_chr=102-26.png
+Sharpnessvalue: 803.7186126874294
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=107_lvl=0_chr=49-29.png
+Sharpnessvalue: 184.12903953249042
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=113_lvl=0_chr=45-86.png
+Sharpnessvalue: 622.6643347543286
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=46_y=27_lvl=0_chr=40-75.png
+Sharpnessvalue: 341.9280946624931
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=160_lvl=0_chr=156-88.png
+Sharpnessvalue: 1086.7551762682851
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=72_lvl=0_chr=124-63.png
+Sharpnessvalue: 1295.489876349442
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=73_lvl=0_chr=165-47.png
+Sharpnessvalue: 889.4390170664992
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=163_lvl=0_chr=131-3.png
+Sharpnessvalue: 1439.480483000385
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=112_lvl=0_chr=119-18.png
+Sharpnessvalue: 626.8569153722929
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=158_lvl=0_chr=71-38.png
+Sharpnessvalue: 478.78292491192406
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=160_lvl=0_chr=25-34.png
+Sharpnessvalue: 385.6539586633444
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=115_lvl=0_chr=111-23.png
+Sharpnessvalue: 447.0494393575791
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=28_y=159_lvl=0_chr=30-1.png
+Sharpnessvalue: 216.01177265947626
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=160_lvl=0_chr=149-64.png
+Sharpnessvalue: 996.1867925349943
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=26_lvl=0_chr=130-81.png
+Sharpnessvalue: 849.3451336207218
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=69_lvl=0_chr=105-3.png
+Sharpnessvalue: 831.0813922762027
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=46_y=26_lvl=0_chr=102-48.png
+Sharpnessvalue: 928.823754019104
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=76_lvl=0_chr=46-15.png
+Sharpnessvalue: 496.3596268681431
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=163_lvl=0_chr=118-49.png
+Sharpnessvalue: 1509.2610076809651
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=112_lvl=0_chr=58-16.png
+Sharpnessvalue: 514.3236430799589
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=159_lvl=0_chr=155-2.png
+Sharpnessvalue: 1009.1354323518317
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=166_lvl=0_chr=33-04.png
+Sharpnessvalue: 392.3004891683813
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=112_lvl=0_chr=109-03.png
+Sharpnessvalue: 519.652196994386
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=116_lvl=0_chr=21-71.png
+Sharpnessvalue: 205.90003363764845
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=159_lvl=0_chr=92-4.png
+Sharpnessvalue: 1566.8853262126067
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=165_lvl=0_chr=97-56.png
+Sharpnessvalue: 1065.2541730120865
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=21_lvl=0_chr=127-6.png
+Sharpnessvalue: 450.56169509887695
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=114_lvl=0_chr=73-72.png
+Sharpnessvalue: 465.31112234095053
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=27_lvl=0_chr=119-11.png
+Sharpnessvalue: 743.2875517466891
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=23_y=137_lvl=0_chr=22-9.png
+Sharpnessvalue: 52.20116029398923
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=20_lvl=0_chr=140-46.png
+Sharpnessvalue: 470.1889543095458
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=72_lvl=0_chr=161-77.png
+Sharpnessvalue: 812.3436459501827
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=156_lvl=0_chr=113-16.png
+Sharpnessvalue: 694.1997976002749
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=157_lvl=0_chr=40-15.png
+Sharpnessvalue: 349.72835440927884
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=62_lvl=0_chr=138-28.png
+Sharpnessvalue: 399.816499174558
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=160_lvl=0_chr=104-76.png
+Sharpnessvalue: 630.4930652242474
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=21_lvl=0_chr=76-72.png
+Sharpnessvalue: 612.8370536151197
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=72_lvl=0_chr=120-77.png
+Sharpnessvalue: 608.0791196895298
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=116_lvl=0_chr=92-15.png
+Sharpnessvalue: 454.40184788602346
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=23_y=138_lvl=0_chr=23-63.png
+Sharpnessvalue: 51.064266084329574
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=114_lvl=0_chr=41-94.png
+Sharpnessvalue: 398.54272397980094
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=70_lvl=0_chr=25-76.png
+Sharpnessvalue: 102.76453590014717
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=113_lvl=0_chr=134-5.png
+Sharpnessvalue: 1675.6074713234411
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=63_lvl=0_chr=41-42.png
+Sharpnessvalue: 178.8256834758795
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=23_lvl=0_chr=161-49.png
+Sharpnessvalue: 875.9844022638717
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=29_lvl=0_chr=156-66.png
+Sharpnessvalue: 722.2804182303225
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=114_lvl=0_chr=139-34.png
+Sharpnessvalue: 647.7695535444072
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=161_lvl=0_chr=42-31.png
+Sharpnessvalue: 727.8860097480356
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=165_lvl=0_chr=140-51.png
+Sharpnessvalue: 1379.246112438137
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=159_lvl=0_chr=147-02.png
+Sharpnessvalue: 1365.0190932226833
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=162_lvl=0_chr=27-07.png
+Sharpnessvalue: 166.90864522637276
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=164_lvl=0_chr=137-05.png
+Sharpnessvalue: 1083.5395572793059
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=65_lvl=0_chr=129-3.png
+Sharpnessvalue: 294.75551543332404
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=74_lvl=0_chr=161-82.png
+Sharpnessvalue: 1228.1749517188873
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=23_lvl=0_chr=57-87.png
+Sharpnessvalue: 629.3059093146003
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=160_lvl=0_chr=53-8.png
+Sharpnessvalue: 285.6566505253868
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=163_lvl=0_chr=85-72.png
+Sharpnessvalue: 629.464170812149
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=153_lvl=0_chr=31-67.png
+Sharpnessvalue: 115.04395213256066
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=23_lvl=0_chr=169-93.png
+Sharpnessvalue: 578.9775460590463
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=69_lvl=0_chr=23-52.png
+Sharpnessvalue: 89.35866921929119
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=28_lvl=0_chr=71-36.png
+Sharpnessvalue: 356.7230258697964
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=111_lvl=0_chr=118-93.png
+Sharpnessvalue: 820.8017227314413
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=72_lvl=0_chr=163-9.png
+Sharpnessvalue: 1202.0601749548077
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=19_lvl=0_chr=92-83.png
+Sharpnessvalue: 402.0530864823231
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=70_lvl=0_chr=164-7.png
+Sharpnessvalue: 350.46344331558794
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=29_lvl=0_chr=29-69.png
+Sharpnessvalue: 236.60473085730337
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=116_lvl=0_chr=76-11.png
+Sharpnessvalue: 1026.7423584775534
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=165_lvl=0_chr=155-19.png
+Sharpnessvalue: 767.395393951796
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=72_lvl=0_chr=167-6.png
+Sharpnessvalue: 963.814756145468
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=159_lvl=0_chr=40-66.png
+Sharpnessvalue: 174.5808978163259
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=30_lvl=0_chr=83-84.png
+Sharpnessvalue: 600.7560353566514
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=118_lvl=0_chr=130-96.png
+Sharpnessvalue: 893.8042597917374
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=66_lvl=0_chr=128-65.png
+Sharpnessvalue: 778.073959742309
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=166_lvl=0_chr=141-91.png
+Sharpnessvalue: 809.5389166779205
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=25_lvl=0_chr=123-57.png
+Sharpnessvalue: 264.5786076874938
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=71_lvl=0_chr=179-6.png
+Sharpnessvalue: 956.6998416474089
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=70_lvl=0_chr=165-53.png
+Sharpnessvalue: 1303.4863469237316
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=23_lvl=0_chr=164-14.png
+Sharpnessvalue: 754.4952346885111
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=160_lvl=0_chr=78-05.png
+Sharpnessvalue: 850.6449218238558
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=68_lvl=0_chr=75-24.png
+Sharpnessvalue: 567.5320817467145
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=29_lvl=0_chr=155-36.png
+Sharpnessvalue: 887.454638989162
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=63_lvl=0_chr=151-76.png
+Sharpnessvalue: 403.84675008780323
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=107_lvl=0_chr=103-38.png
+Sharpnessvalue: 356.0724284404423
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=66_lvl=0_chr=161-38.png
+Sharpnessvalue: 724.720554392421
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=18_lvl=0_chr=148-01.png
+Sharpnessvalue: 279.58332001580857
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=158_lvl=0_chr=51-09.png
+Sharpnessvalue: 341.14800769892463
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=28_y=156_lvl=0_chr=44-95.png
+Sharpnessvalue: 188.8847804730758
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=27_lvl=0_chr=73-26.png
+Sharpnessvalue: 289.6943173562031
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=69_lvl=0_chr=181-76.png
+Sharpnessvalue: 942.8608262427006
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=109_lvl=0_chr=124-03.png
+Sharpnessvalue: 461.7942860943731
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=69_lvl=0_chr=88-64.png
+Sharpnessvalue: 820.7623049722606
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=118_lvl=0_chr=92-47.png
+Sharpnessvalue: 695.0722402594984
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=37_y=162_lvl=0_chr=158-87.png
+Sharpnessvalue: 1172.236157283187
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=24_lvl=0_chr=169-85.png
+Sharpnessvalue: 917.852389318854
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=158_lvl=0_chr=160-16.png
+Sharpnessvalue: 846.515608360758
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=151_lvl=0_chr=28-44.png
+Sharpnessvalue: 62.44702853169292
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=162_lvl=0_chr=151-75.png
+Sharpnessvalue: 956.7431006895931
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=74_lvl=0_chr=120-98.png
+Sharpnessvalue: 1479.580543443546
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=164_lvl=0_chr=55-93.png
+Sharpnessvalue: 622.6742421180097
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=45_y=28_lvl=0_chr=95-52.png
+Sharpnessvalue: 451.27250794936845
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=164_lvl=0_chr=127-79.png
+Sharpnessvalue: 1164.1989522883086
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=114_lvl=0_chr=143-13.png
+Sharpnessvalue: 1178.1138717743888
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=113_lvl=0_chr=24-15.png
+Sharpnessvalue: 121.13716079381993
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=74_lvl=0_chr=166-98.png
+Sharpnessvalue: 1284.0680579844484
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=29_lvl=0_chr=151-54.png
+Sharpnessvalue: 702.0864255688939
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=68_lvl=0_chr=114-3.png
+Sharpnessvalue: 354.0755836548633
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=30_lvl=0_chr=140-99.png
+Sharpnessvalue: 1481.2681006517814
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=71_lvl=0_chr=178-52.png
+Sharpnessvalue: 1016.8469920236967
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=152_lvl=0_chr=114-21.png
+Sharpnessvalue: 349.59647617254814
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=115_lvl=0_chr=149-75.png
+Sharpnessvalue: 1418.9971335437003
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=73_lvl=0_chr=146-73.png
+Sharpnessvalue: 1392.308728550037
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=111_lvl=0_chr=70-42.png
+Sharpnessvalue: 637.4766400261869
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=116_lvl=0_chr=139-02.png
+Sharpnessvalue: 1019.5570552021818
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=115_lvl=0_chr=138-4.png
+Sharpnessvalue: 1183.6808551059657
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=28_lvl=0_chr=148-43.png
+Sharpnessvalue: 890.1172228073119
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=115_lvl=0_chr=136-51.png
+Sharpnessvalue: 963.7970372012205
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=73_lvl=0_chr=146-36.png
+Sharpnessvalue: 908.0278167626238
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=39_y=160_lvl=0_chr=159-44.png
+Sharpnessvalue: 837.2918531954638
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=29_y=156_lvl=0_chr=86-47.png
+Sharpnessvalue: 514.9195287488401
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=73_lvl=0_chr=154-16.png
+Sharpnessvalue: 1477.9922838914063
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=109_lvl=0_chr=47-57.png
+Sharpnessvalue: 329.2381309121847
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=25_lvl=0_chr=175-26.png
+Sharpnessvalue: 643.048804735532
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=63_lvl=0_chr=153-77.png
+Sharpnessvalue: 365.62447652719857
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=159_lvl=0_chr=143-07.png
+Sharpnessvalue: 854.7449660589773
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=72_lvl=0_chr=158-5.png
+Sharpnessvalue: 1213.3420401641633
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=69_lvl=0_chr=98-69.png
+Sharpnessvalue: 1196.5471356975468
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=151_lvl=0_chr=64-25.png
+Sharpnessvalue: 250.8813266949146
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=26_lvl=0_chr=163-47.png
+Sharpnessvalue: 347.4519772546919
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=18_lvl=0_chr=121-05.png
+Sharpnessvalue: 189.88892169570317
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=119_lvl=0_chr=127-47.png
+Sharpnessvalue: 1297.916362077216
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=29_lvl=0_chr=165-55.png
+Sharpnessvalue: 803.3667290595913
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=118_lvl=0_chr=43-42.png
+Sharpnessvalue: 344.29178273478465
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=165_lvl=0_chr=140-56.png
+Sharpnessvalue: 1062.8664258586796
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=162_lvl=0_chr=85-03.png
+Sharpnessvalue: 405.6080711604882
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=32_y=154_lvl=0_chr=135-07.png
+Sharpnessvalue: 504.72332238916715
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=30_y=110_lvl=0_chr=75-59.png
+Sharpnessvalue: 541.2028235494508
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=164_lvl=0_chr=138-58.png
+Sharpnessvalue: 1183.0290173365356
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=159_lvl=0_chr=56-08.png
+Sharpnessvalue: 544.2513944025704
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=119_lvl=0_chr=71-87.png
+Sharpnessvalue: 1005.1061193561036
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=43_y=25_lvl=0_chr=161-33.png
+Sharpnessvalue: 433.4780900711048
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=40_y=76_lvl=0_chr=113-35.png
+Sharpnessvalue: 1192.4555600087479
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=113_lvl=0_chr=83-28.png
+Sharpnessvalue: 848.9524116498505
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=118_lvl=0_chr=120-93.png
+Sharpnessvalue: 732.8711230522022
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=47_y=25_lvl=0_chr=23-67.png
+Sharpnessvalue: 176.20818774412328
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=23_lvl=0_chr=156-78.png
+Sharpnessvalue: 1827.4726735046133
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=41_y=27_lvl=0_chr=155-51.png
+Sharpnessvalue: 689.499949388075
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=34_y=22_lvl=0_chr=54-62.png
+Sharpnessvalue: 815.1353834865149
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=33_y=110_lvl=0_chr=92-75.png
+Sharpnessvalue: 464.5064216104802
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=38_y=162_lvl=0_chr=151-31.png
+Sharpnessvalue: 1325.8684437742777
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=64_lvl=0_chr=23-17.png
+Sharpnessvalue: 88.1580899925757
+thresholdapplience: blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=22_lvl=0_chr=164-58.png
+Sharpnessvalue: 644.5268347774982
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=29_y=110_lvl=0_chr=28-98.png
+Sharpnessvalue: 143.8439740761969
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=70_lvl=0_chr=79-48.png
+Sharpnessvalue: 301.85070342999825
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=31_y=110_lvl=0_chr=78-79.png
+Sharpnessvalue: 402.9134634420625
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=35_y=24_lvl=0_chr=60-14.png
+Sharpnessvalue: 697.047100446187
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=36_y=61_lvl=0_chr=101-71.png
+Sharpnessvalue: 183.24843978635909
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=44_y=117_lvl=0_chr=60-57.png
+Sharpnessvalue: 722.5459017213288
+thresholdapplience: not blurry
+#################################
+Image: /home/bassist/Desktop/tmpOutput/3D-H-24_x=42_y=74_lvl=0_chr=165-74.png
+Sharpnessvalue: 1160.371227259151
+thresholdapplience: not blurry
